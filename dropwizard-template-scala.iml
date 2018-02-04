@@ -107,6 +107,14 @@
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.8.7" level="project" />
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.module:jackson-module-paranamer:2.8.7" level="project" />
     <orderEntry type="library" name="Maven: com.thoughtworks.paranamer:paranamer:2.8" level="project" />
+    <orderEntry type="library" name="Maven: com.datasift.dropwizard.scala:dropwizard-scala-jdbi_2.12:1.1.0-2" level="project" />
+    <orderEntry type="library" name="Maven: io.dropwizard:dropwizard-jdbi:1.1.0" level="project" />
+    <orderEntry type="library" name="Maven: io.dropwizard:dropwizard-db:1.1.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat:tomcat-jdbc:8.5.9" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat:tomcat-juli:8.5.9" level="project" />
+    <orderEntry type="library" name="Maven: org.jdbi:jdbi:2.78" level="project" />
+    <orderEntry type="library" name="Maven: io.dropwizard.metrics:metrics-jdbi:3.2.2" level="project" />
+    <orderEntry type="library" name="Maven: mysql:mysql-connector-java:6.0.6" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.4" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.specs:specs:1.2.5" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.scalatest:scalatest:0.9.1" level="project" />

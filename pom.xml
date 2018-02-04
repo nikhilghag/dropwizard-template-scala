@@ -9,6 +9,7 @@
         <scala.version>2.12.4</scala.version>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
+        <dropwizard.version>1.1.0-2</dropwizard.version>
     </properties>
 
     <repositories>
@@ -36,7 +37,17 @@
         <dependency>
             <groupId>com.datasift.dropwizard.scala</groupId>
             <artifactId>dropwizard-scala-core_2.12</artifactId>
-            <version>1.1.0-2</version>
+            <version>${dropwizard.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.datasift.dropwizard.scala</groupId>
+            <artifactId>dropwizard-scala-jdbi_2.12</artifactId>
+            <version>${dropwizard.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>6.0.6</version>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
