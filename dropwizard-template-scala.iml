@@ -114,6 +114,9 @@
     <orderEntry type="library" name="Maven: org.apache.tomcat:tomcat-juli:8.5.9" level="project" />
     <orderEntry type="library" name="Maven: org.jdbi:jdbi:2.78" level="project" />
     <orderEntry type="library" name="Maven: io.dropwizard.metrics:metrics-jdbi:3.2.2" level="project" />
+    <orderEntry type="library" name="Maven: io.dropwizard:dropwizard-views-freemarker:1.2.2" level="project" />
+    <orderEntry type="library" name="Maven: io.dropwizard:dropwizard-views:1.2.2" level="project" />
+    <orderEntry type="library" name="Maven: org.freemarker:freemarker:2.3.27-incubating" level="project" />
     <orderEntry type="library" name="Maven: mysql:mysql-connector-java:6.0.6" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.4" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.specs:specs:1.2.5" level="project" />

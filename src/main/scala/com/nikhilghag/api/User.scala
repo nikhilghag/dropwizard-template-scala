@@ -1,3 +1,8 @@
 package com.nikhilghag.api
 
-case class User(id: Int, name: String)
+class User(id: Int, name: String) {
+
+  def getId = id
+
+  def getName = name
+}

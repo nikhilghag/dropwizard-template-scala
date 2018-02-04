@@ -3,7 +3,7 @@ defaultName: Stranger
 
 database:
   # the name of your JDBC driver
-  driverClass: com.mysql.jdbc.Driver
+  driverClass: com.mysql.cj.jdbc.Driver
 
   # the username
   user: root
